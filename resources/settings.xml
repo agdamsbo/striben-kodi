@@ -20,13 +20,19 @@
         <setting id="cpr" type="string" label="30006">
           <level>0</level>
           <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
           <control type="edit" format="string">
             <heading>30006</heading>
           </control>
         </setting>
         <setting id="pin" type="string" label="30007">
           <level>0</level>
-          <default></default>
+          <default></default>          
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
           <control type="edit" format="string">
             <heading>30007</heading>
             <hidden>true</hidden>
