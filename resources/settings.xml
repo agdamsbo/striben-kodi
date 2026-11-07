@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+  <section id="plugin.video.filmstriben">
+    <category id="account" label="30000">
+      <group id="1" label="30001">
+        <setting id="municipality" type="string" label="30002" help="30003">
+          <level>0</level>
+          <default>Silkeborg</default>
+          <control type="edit" format="string">
+            <heading>30002</heading>
+          </control>
+        </setting>
+        <setting id="agency" type="string" label="30004" help="30005">
+          <level>0</level>
+          <default>774000</default>
+          <control type="edit" format="string">
+            <heading>30004</heading>
+          </control>
+        </setting>
+        <setting id="cpr" type="string" label="30006">
+          <level>0</level>
+          <default></default>
+          <control type="edit" format="string">
+            <heading>30006</heading>
+          </control>
+        </setting>
+        <setting id="pin" type="string" label="30007">
+          <level>0</level>
+          <default></default>
+          <control type="edit" format="string">
+            <heading>30007</heading>
+            <hidden>true</hidden>
+          </control>
+        </setting>
+        <setting id="logout" type="action" label="30008">
+          <level>0</level>
+          <data>RunPlugin(plugin://plugin.video.filmstriben/?action=logout)</data>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="button" format="action">
+            <close>false</close>
+          </control>
+        </setting>
+      </group>
+    </category>
+    <category id="playback" label="30010">
+      <group id="1">
+        <setting id="subtitles" type="string" label="30011" help="30012">
+          <level>0</level>
+          <default>da</default>
+          <constraints>
+            <options>
+              <option label="30020">off</option>
+              <option label="30021">auto</option>
+              <option label="30022">da</option>
+              <option label="30023">en</option>
+              <option label="30024">sv</option>
+              <option label="30025">no</option>
+              <option label="30026">de</option>
+            </options>
+          </constraints>
+          <control type="list" format="string">
+            <heading>30011</heading>
+          </control>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

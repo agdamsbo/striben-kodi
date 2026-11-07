@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.filmstriben" name="Filmstriben" version="0.1.0" provider-name="personal">
+  <requires>
+    <import addon="xbmc.python" version="3.0.1"/>
+    <import addon="script.module.requests" version="2.27.1"/>
+    <import addon="inputstream.adaptive"/>
+    <import addon="script.module.inputstreamhelper"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en_GB">Your saved Filmstriben films (unofficial)</summary>
+    <summary lang="da_DK">Dine gemte Filmstriben-film (uofficiel)</summary>
+    <description lang="en_GB">Unofficial add-on. Logs in with your own library card, lists your saved films, borrows a film after confirmation and plays it. Personal use only.</description>
+    <description lang="da_DK">Uofficielt tilføjelsesprogram. Logger ind med dit eget bibliotekslogin, viser dine gemte film, låner en film efter bekræftelse og afspiller den. Kun til personlig brug.</description>
+    <disclaimer lang="en_GB">Not affiliated with Filmstriben or DBC. May stop working if the service changes.</disclaimer>
+    <news>0.1.0 - first MVP</news>
+  </extension>
+</addon>

@@ -1,0 +1,109 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: da_DK\n"
+
+msgctxt "#30000"
+msgid "Account"
+msgstr "Konto"
+
+msgctxt "#30001"
+msgid "Library login"
+msgstr "Biblioteksindlogning"
+
+msgctxt "#30002"
+msgid "Municipality (name)"
+msgstr "Kommune (navn)"
+
+msgctxt "#30003"
+msgid "Name of your municipality, e.g. Silkeborg"
+msgstr "Navnet på din kommune, fx Silkeborg"
+
+msgctxt "#30004"
+msgid "Library ID"
+msgstr "Biblioteks-ID"
+
+msgctxt "#30005"
+msgid "Municipal libraries are 7 + 3-digit municipality code + 00, e.g. Silkeborg (740) = 774000"
+msgstr "Kommunale biblioteker er 7 + 3-cifret kommunekode + 00, fx Silkeborg (740) = 774000"
+
+msgctxt "#30006"
+msgid "CPR number"
+msgstr "CPR-nummer"
+
+msgctxt "#30007"
+msgid "PIN / password"
+msgstr "PIN / adgangskode"
+
+msgctxt "#30008"
+msgid "Log out (clear saved tokens)"
+msgstr "Log ud (slet gemte tokens)"
+
+msgctxt "#30010"
+msgid "Playback"
+msgstr "Afspilning"
+
+msgctxt "#30011"
+msgid "Default subtitles"
+msgstr "Standard-undertekster"
+
+msgctxt "#30012"
+msgid "Subtitle track picked automatically when a film starts"
+msgstr "Undertekstspor vælges automatisk når en film starter"
+
+msgctxt "#30020"
+msgid "Off"
+msgstr "Fra"
+
+msgctxt "#30021"
+msgid "First available"
+msgstr "Første tilgængelige"
+
+msgctxt "#30022"
+msgid "Danish"
+msgstr "Dansk"
+
+msgctxt "#30023"
+msgid "English"
+msgstr "Engelsk"
+
+msgctxt "#30024"
+msgid "Swedish"
+msgstr "Svensk"
+
+msgctxt "#30025"
+msgid "Norwegian"
+msgstr "Norsk"
+
+msgctxt "#30026"
+msgid "German"
+msgstr "Tysk"
+
+msgctxt "#30100"
+msgid "Borrow this film?"
+msgstr "Lån denne film?"
+
+msgctxt "#30101"
+msgid "[B]{title}[/B] costs {cost} points."
+msgstr "[B]{title}[/B] koster {cost} point."
+
+msgctxt "#30102"
+msgid "This film cannot be borrowed right now"
+msgstr "Filmen kan ikke lånes lige nu"
+
+msgctxt "#30103"
+msgid "No saved films found"
+msgstr "Ingen gemte film fundet"
+
+msgctxt "#30104"
+msgid "You have {left} of {quota} points left this month."
+msgstr "Du har {left} af {quota} point tilbage denne måned."
+
+msgctxt "#30105"
+msgid "Logged out"
+msgstr "Logget ud"
+
+msgctxt "#30109"
+msgid "points"
+msgstr "point"

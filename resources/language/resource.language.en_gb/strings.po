@@ -1,0 +1,109 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_GB\n"
+
+msgctxt "#30000"
+msgid "Account"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Library login"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Municipality (name)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Name of your municipality, e.g. Silkeborg"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Library ID"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Municipal libraries are 7 + 3-digit municipality code + 00, e.g. Silkeborg (740) = 774000"
+msgstr ""
+
+msgctxt "#30006"
+msgid "CPR number"
+msgstr ""
+
+msgctxt "#30007"
+msgid "PIN / password"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Log out (clear saved tokens)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Default subtitles"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Subtitle track picked automatically when a film starts"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Off"
+msgstr ""
+
+msgctxt "#30021"
+msgid "First available"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Danish"
+msgstr ""
+
+msgctxt "#30023"
+msgid "English"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Swedish"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Norwegian"
+msgstr ""
+
+msgctxt "#30026"
+msgid "German"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Borrow this film?"
+msgstr ""
+
+msgctxt "#30101"
+msgid "[B]{title}[/B] costs {cost} points."
+msgstr ""
+
+msgctxt "#30102"
+msgid "This film cannot be borrowed right now"
+msgstr ""
+
+msgctxt "#30103"
+msgid "No saved films found"
+msgstr ""
+
+msgctxt "#30104"
+msgid "You have {left} of {quota} points left this month."
+msgstr ""
+
+msgctxt "#30105"
+msgid "Logged out"
+msgstr ""
+
+msgctxt "#30109"
+msgid "points"
+msgstr ""
